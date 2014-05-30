@@ -1,0 +1,196 @@
+* {margin: 0; padding: 0;}
+
+body {
+	font-family: "Comic Sans MS", sans-serif;
+	font-size: 62.5%;
+    background-color: #142908;
+}
+
+
+#container {
+	font-size: 1.2em;
+	margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #BCE4B7;
+  width: 960px;
+}
+
+#header {
+  background-image: url(../images/header.png); 
+	background-repeat: no-repeat;
+	background-position: top left;
+  height: 128px;
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+  background-color: #1C5F14;
+}
+
+#left {
+	float:left;
+	width: 160px;
+  margin: 0;
+  padding: 0;
+}
+
+#right {
+  float: left;
+  padding: 10px;
+}
+
+#footer {
+  height: 100px;
+  background-image: url(../images/footer.png); 
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	clear: both;
+	padding-top: 40px;
+  font-family: sans-serif;
+	text-align: center;
+}
+
+p {margin-bottom: 15px;
+   margin-top: 15px;
+}
+
+h1 {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive;
+  text-align: right;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #8BAD94;
+  margin: 1em;
+  margin-right: 5em;
+  margin-bottom: -0.5em;
+}
+
+h2 {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive;
+  text-align: right;
+	font-size: 1.5em;
+	font-style: italic;
+	font-weight: bold;
+	color: #142908;
+  margin-right: 1em;
+}
+
+a:link {
+  color: #1C5F14; 
+  text-decoration: none;
+}  
+a:visited {
+  color: #1C5F14; 
+  text-decoration: none;
+}
+a:hover {
+	color: #8BAD94;
+  text-decoration: none;
+}
+a:active {
+  color: #1C5F14; 
+  text-decoration: none;
+} 
+
+#navcontainer {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  text-align: center;
+ }
+
+#navcontainer ul {
+	list-style-type: none;
+}
+
+#navcontainer a {
+	display: block;
+	padding: 10px;
+  margin: 1px;
+	background-color: #BAD68B;
+}
+
+#navlist a:link, #navlist a:visited {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 95%, from(rgba(255, 255, 255, 0.7)), to(rgba(255, 255, 255, 0)));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0));
+	color: #1C5F14;
+  text-decoration: none;
+	font-weight: bold;
+}
+
+#navlist a:active {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 95%, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0.7)));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.7));
+}
+
+#navlist #current {
+	font-weight: bold;
+}
+
+#navlist a:hover {	
+	color: #142908;
+	background-color: #8BAD94;
+}
+
+#navlist #current a:hover {	
+	color: #1C5F14;
+	background-color: #BAD68B;
+  text-decoration: none;
+}
+
+.slogan {
+  color: #BCE4B7;
+  text-align: right;
+  margin-right: 1em;
+}
+
+div.welcome {
+  width: 700px;
+  margin: 1.5em;
+  border: 1px solid #BAD68B;
+  padding: 1em;
+}
+
+img.welcome {
+    margin: 5px;
+    margin-right: 10px;
+    border: 2px solid #8BAD94;
+    vertical-align: top;
+    float: left;
+}
+
+.folder {
+    width: 700px;
+    margin: 20px;
+    padding: 0;
+
+}
+
+
+
+img.thumbnail {
+    height: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+.ui-tabs {
+    padding: 0;
+    margin: 0;
+}
+.ui-tabs-nav-item {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+}
+
+.ui-tab-nav {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.ui-tabs-panel img {
+  height: 320px;
+}
