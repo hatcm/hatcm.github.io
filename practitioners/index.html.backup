@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Harmony Acupuncture &amp; TCM | Our Practioners</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="viewport" content="width=960" />
+<link href="../images/icon.png" rel="apple-touch-icon" />
+<link href="../images/icon.png" rel="shortcut icon" />
+<link href="../css/le-frog/jquery-ui-1.8.4.custom.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../css/elastic/elastic.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../css/skin.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../css/bio.css" media="screen" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="../js/elastic/elastic.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(function () {$("#nav-practitioners").addClass("current");});
+//]]>
+
+</script></head>
+<body>
+  <div class="unit layout">
+    <div class="header">
+        <h1>Harmony Acupuncture &amp; TCM </h1>
+        <p>Optimized wellness with ancient healing arts <sup>TM</sup></p>
+    </div>
+    <div class="on-2 columns body">
+      <div class="column nav fixed">
+        <ul class="nav">
+        <li><a href="../home" id="nav-home">Home</a></li>
+        <li><a href="../office" id="nav-office">Our Office</a></li>
+        <li><a href="../practitioners" id="nav-practitioners">Our Practitioners</a></li>
+        <li><a href="../herbology" id="nav-herbology">Herbology</a></li>
+        <li><a href="../acupuncture" id="nav-acupuncture">Acupuncture</a></li>
+        <li><a href="../testimonials" id="nav-testimonials">Testimonials</a></li>
+        <li><a href="../contact" id="nav-contact">Contact Us</a></li>
+        <li><a href="../home/locations" id="nav-locations">Locations</a></li>
+        </ul>
+      </div>
+      <div class="column content fixed">
+      
+<div class="container">
+<h2>Our Practitioners</h2>
+<div class="contentbox">
+<div class="on-2 columns same-height">
+            <div class="column biocontainer">
+            <div class="bio">
+            <div class="name">
+            Rongshu Duan
+            </div>
+            <img class="headshot" src="../images/rongshu.duan.4x5.png">
+            <div class="degree">L.Ac., Dipl.O.M. (NCCAOM)</div>
+            <div class="list">
+            <ul><li>47 years of abundant clinical experience in TCM, including 5 years in Kenya, Africa, and 15 years in US</li><li>Head scientist of Rongzhong Pharmaceutics and Sciences, Inc. of China</li><li>Top 30 candidate listed as "Twelfth Five-Year Top Science Projects" of China</li><li>Certified by both California Medical Board and NCCAOM</li><li>Among the first alumni of China Academy of Traditional Chinese Medicine 
+(currently China Academy of Chinese Medical Sciences), 
+the highest national level institute in traditional Chinese medicine (TCM)</li><li>Editor and author of numerous books and articles in Chinese medicine</li><li>Specialize in refractory and sophisticated disorders including but not limited 
+to allergy, coronary arterial disease, immune deficiency or hyperactive 
+disorders, STD, cancer, aplastic anemia, impotence, depression, and CFS</li></ul></div></div></div>            <div class="column biocontainer">
+            <div class="bio">
+            <div class="name">
+            Azure Duan
+            </div>
+            <img class="headshot" src="../images/azure.duan.4x5.png">
+            <div class="degree">PhD in Integrative Medicine <br/> OM Practitioner</div>
+            <div class="list">
+            <ul><li>A second generation inherited rich knowledge in Chinese medicine from her 
+father at very young age, and continues to carry on the family practice</li><li>Earned her Ph. D. from Chengdu University of Traditional Chinese Medicine, 
+one of the five China's pioneer institutes in Chinese medicine</li><li>Editor in contract with People's Medical Publishing House, national level medical publisher of China</li><li>NCCAOM Certification Candidate</li><li>Specialize in stress and emotional management, sleep disorders, fatigue, 
+sports and athletic injuries, pain management, weight management, skin 
+disorders, facial and wellness rejuvenation, cardiovascular diseases, cancer 
+care, ADHD and autism</li></ul></div></div></div></div>
+</div>
+</div>
+      </div>
+    </div>
+    <div class="footer">
+      <p id="address">
+      <a href="../home/locations">
+        Tel: (770) 310-8070
+        <br/>
+        Main Office :
+        1838 Old Norcross Rd., #300,
+        Lawrenceville, GA 30044.
+        </p>
+      <p>
+        &copy; 2010, Harmony Acupuncture &amp; TCM |
+        <a href="../terms">Terms &amp; Conditions</a> |
+        <a href="../privacy">Privacy Policy</a>  
+      </p>
+    </div>
+  </div>
+</body>
+</html>

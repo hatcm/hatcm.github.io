@@ -1,0 +1,295 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #142908;
+  color: #254117;
+  line-height: 1.2em;
+}
+
+body{
+  background-color: #142908;
+}
+
+.layout {
+	font-family: "Comic Sans MS", sans-serif;
+	font-size: 1em;
+	margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #BCE4B7;
+  width: 960px;
+}
+
+.container {
+  margin: 20px;
+}
+
+.header {
+  background-image: url(../images/header.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  height: 128px;
+  margin: 0;
+  padding: 10px;
+  background-color: #1C5F14;
+  text-align: right;
+  color: #BCE4B7;
+	font-family: "Comic Sans MS", sans-serif;
+}
+
+.header h1 {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", Helvetica;
+  text-align: right;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #8BAD94;
+  margin: 1em 5em 0.5em;
+  padding: 0;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+}
+
+#right {
+  float: left;
+  padding: 10px;
+}
+
+
+.body {
+}
+
+.content {
+  min-height: 600px;
+  width: 800px;
+  padding: 0px;
+  margin: 0;
+}
+
+.footer {
+  height: 100px;
+	clear: both;
+  padding: 0;
+	padding-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+	text-align: center;
+  background-image: url(../images/footer.png); 
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+
+p {margin-bottom: 15px;
+   margin-top: 15px;
+}
+
+
+h2 {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", Helvetica;
+  text-align: right;
+	font-size: 1.5em;
+	font-style: italic;
+	font-weight: bold;
+}
+
+img.headshot {
+  width: 102px;
+  height: 128px;
+  border: 3px inset #8BAD94;
+}
+
+div.headshot {
+  width: 102px;
+}
+
+ul.bio {
+  margin: 0.5em;
+  padding: 2em;
+
+  border-top: 1.5px solid #8BAD94;
+}
+
+ul.bio li{
+  margin: 0.5em;
+	font-family: "Comic Sans MS", Helvetica, sans-serif;
+}
+
+.bio .degree {
+  font-family: "Comic Sans MS", Helvetica, sans-serif;
+  font-size: 16px;
+  color: green;
+}
+a:link {
+  color: #1C5F14; 
+  text-decoration: none;
+}  
+a:visited {
+  color: #1C5F14; 
+  text-decoration: none;
+}
+a:hover {
+	color: #8BAD94;
+  text-decoration: none;
+}
+a:active {
+  color: #1C5F14; 
+  text-decoration: none;
+} 
+
+div.nav {
+  width: 160px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", Helvetica;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  width: 160px;
+ }
+
+.nav ul li {
+	list-style-type: none;
+  margin: 1px;
+}
+
+.nav a {
+	display: block;
+	padding: 10px;
+  margin: 0px;
+	background-color: #BAD68B;
+}
+
+.nav a:link, #navlist a:visited {
+	color: #1C5F14;
+  text-decoration: none;
+	color: #142908;
+}
+
+.nav a:active {
+	color: #142908;
+	background-color: #8BAD94;
+}
+
+.nav a:hover	{
+	color: #142908;
+	background-color: #8BAD94;
+}
+
+.nav a.current {	
+	color: #142908;
+  background-color: #BCE4B7;
+}
+
+div.contentbox {
+  width: 730px;
+  min-height: 400px;
+  margin: 0 auto;
+  border: 1px solid #BAD68B;
+  padding: 1em;
+}
+
+
+img.welcome {
+    margin: 5px;
+    margin-right: 10px;
+    border: 2px solid #8BAD94;
+    vertical-align: top;
+    float: left;
+}
+
+div.folder {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+img.thumbnail {
+    height: 26px;
+    margin: 0;
+    padding: 0;
+}
+
+.ui-tabs {
+    padding: 0;
+    margin: 0;
+}
+
+.ui-tabs-nav-item {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+}
+
+.ui-tab-nav {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.ui-tabs-panel img.office {
+  height: 320px;
+}
+
+form dd {
+  margin-bottom: 10px;
+  margin-left: 100px;
+  padding: 0;
+}
+
+form textarea {
+  width: 500px;
+  height: 200px;
+}
+
+pre.message {
+  border: 1px solid #BAD68B;
+  margin: 20px;
+  padding: 10px;
+}
+
+div.testimonial {
+  width: 600px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: 40px;
+  margin-bottom: 35px;
+}
+
+blockquote.testimonial p {
+    padding: 5px;
+    line-height: 1.2em;
+}
+
+span.quotationmark {
+  font-size: 1.2em;
+  color: green;
+}
+
+cite.testimonial {
+  float: right;
+}
+
+#location {
+    text-align: center;
+    line-height: 1.5em;
+    padding: 1em;
+}
+
+div.welcome {
+    padding: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.5em;
+}
+
+
+.ui-accordion-content{ zoom: 1; } 
