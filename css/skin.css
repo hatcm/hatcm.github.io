@@ -190,7 +190,7 @@ div.nav {
 
 div.contentbox {
   width: 730px;
-  min-height: 400px;
+  /*min-height: 400px;*/
   margin: 0 auto;
   border: 1px solid #BAD68B;
   padding: 1em;
