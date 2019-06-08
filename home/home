@@ -26,7 +26,7 @@ $(function () {$("#nav-home").addClass("current");});
   <div class="unit layout">
     <div class="header">
         <h1>Harmony Acupuncture &amp; TCM </h1>
-        <p>Optimized wellness with ancient healing arts <sup>TM</sup></p>
+        <p>Optimize your health with premium healing arts <sup>TM</sup></p>
     </div>
     <div class="on-2 columns body">
       <div class="column nav fixed">
@@ -132,8 +132,7 @@ out if we can help you or refer you to an appropriate healthcare provider.
       <a href="/home/locations">
         Tel: (770) 310-8070
         <br/>
-        1838 Old Norcross Rd., Ste. 300,
-        Lawrenceville, GA 30044
+        3784 Satellite Blvd., Ste. 101, Duluth, GA 30096
         </p>
       <p>
         &copy; 2010 - 2014, Harmony Acupuncture &amp; TCM |
